@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lemonutil",
+  "name": "§6Lemon§eUtil",
+  "description": "§6A mod by JakeNelson1999 for the LemonCloud Server.",
+  "version": "1.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["§bJakeNelson1999"],
+  "credits": "§eThe LemonCloud community for ideas",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
